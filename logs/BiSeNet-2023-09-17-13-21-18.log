@@ -1,0 +1,5 @@
+INFO train.py(104): Training Fusion Model start~
+INFO train.py(169): step: 10/5410, l_total: 0.1976, l_in: 0.0517, l_grad: 0.1459, msssim_ir: 0.4933, msssim_vis: 0.0976, mx_loss: 0.0601, eta: 4:05:02, time: 27.2271
+INFO train.py(169): step: 20/5410, l_total: 0.2288, l_in: 0.1371, l_grad: 0.0917, msssim_ir: 0.4190, msssim_vis: 0.1735, mx_loss: 0.1354, eta: 2:13:25, time: 2.4763
+INFO train.py(169): step: 30/5410, l_total: 0.2411, l_in: 0.1436, l_grad: 0.0975, msssim_ir: 0.3555, msssim_vis: 0.1761, mx_loss: 0.1463, eta: 1:36:02, time: 2.4297
+INFO train.py(169): step: 40/5410, l_total: 0.2057, l_in: 0.1047, l_grad: 0.1010, msssim_ir: 0.4466, msssim_vis: 0.0580, mx_loss: 0.0541, eta: 1:17:24, time: 2.4596
